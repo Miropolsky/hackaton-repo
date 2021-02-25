@@ -1,0 +1,148 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Custis/Modeus//Schedule Calendar App//RU
+METHOD:REFRESH
+BEGIN:VEVENT
+UID:07e935b6-2036-4758-b42d-08f1b15373d0
+SEQUENCE:8
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210227T160000
+DTEND;TZID=Asia/Yekaterinburg:20210227T173000
+SUMMARY:Проектный практикум 3-А / Лабораторное занятие 2 / ПП3А-Л\,ЛБ\,АТ-РИ-290001\,02\,03\,04\,12\,13\,14\,15\,16\,17\,18\,19\,21\,22\,23
+LOCATION:Не определено
+DESCRIPTION:Лабораторное занятие\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2207e935b6-2036-4758-b42d-08f1b15373d0%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-27T16:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/07e935b6-2036-4758-b42d-08f1b15373d0\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:ПП3А
+END:VEVENT
+BEGIN:VEVENT
+UID:0ddd3333-c373-49d7-92a8-811528388185
+SEQUENCE:32
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210223T101500
+DTEND;TZID=Asia/Yekaterinburg:20210223T114500
+SUMMARY:Дискретные структуры данных / Практическое занятие 2 / Дискретные структуры данных Л\, П\, АТ-01 (дистант)
+LOCATION:Microsoft Teams
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Белоусов Иван Николаевич\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%220ddd3333-c373-49d7-92a8-811528388185%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-23T10:15:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/0ddd3333-c373-49d7-92a8-811528388185\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Дискретные структуры данных
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa3f4be-d684-4caa-83bc-97adc664baca
+SEQUENCE:27
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210222T174000
+DTEND;TZID=Asia/Yekaterinburg:20210222T191000
+SUMMARY:Алгоритмы и анализ сложности (Смешанная форма) / Лекционное занятие 3 / Я.АиАС.1.С Л\, П\, АТ-13 (дистант)
+LOCATION:Microsoft Teams
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Трофимов Сергей Павлович\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%222aa3f4be-d684-4caa-83bc-97adc664baca%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-22T17:40:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/2aa3f4be-d684-4caa-83bc-97adc664baca\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:Я.АиАС.1.С
+END:VEVENT
+BEGIN:VEVENT
+UID:7a688870-5a80-46ea-8e2c-7948f2d8c186
+SEQUENCE:8
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210226T141500
+DTEND;TZID=Asia/Yekaterinburg:20210226T154500
+SUMMARY:Прикладная физическая культура Часть 4 / Практическое занятие 4 / ФК4-П\,АТ-РИ-290001\,02\,03\,04\,12\,13\,14\,15\,16\,17\,18\,19\,21\,22\,23
+LOCATION:Не определено
+DESCRIPTION:Практическое занятие\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%227a688870-5a80-46ea-8e2c-7948f2d8c186%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-26T14:15:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/7a688870-5a80-46ea-8e2c-7948f2d8c186\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ФК4
+END:VEVENT
+BEGIN:VEVENT
+UID:84418f3e-e26e-4e8b-84ba-ab3dcb0c5f8f
+SEQUENCE:27
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210222T160000
+DTEND;TZID=Asia/Yekaterinburg:20210222T173000
+SUMMARY:Алгоритмы и анализ сложности (Смешанная форма) / Лекционное занятие 2 / Я.АиАС.1.С Л\, П\, АТ-13 (дистант)
+LOCATION:Microsoft Teams
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Трофимов Сергей Павлович\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2284418f3e-e26e-4e8b-84ba-ab3dcb0c5f8f%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-22T16:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/84418f3e-e26e-4e8b-84ba-ab3dcb0c5f8f\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:Я.АиАС.1.С
+END:VEVENT
+BEGIN:VEVENT
+UID:86688182-0813-41d8-b2ca-a9b488aa6aad
+SEQUENCE:82
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210227T205000
+DTEND;TZID=Asia/Yekaterinburg:20210227T222000
+SUMMARY:Трехмерное моделирование (Онлайн\, ИТМО\, ОК) / Практическое занятие / 3D.ИРИТ-РТФ.ITMO.Э.О П\, АТ-01
+LOCATION:Не определено
+DESCRIPTION:Практическое занятие / Тренинг\n\nПреподаватель: Шадрин Денис Борисович\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2286688182-0813-41d8-b2ca-a9b488aa6aad%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-27T20:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/86688182-0813-41d8-b2ca-a9b488aa6aad\n
+CATEGORIES:Практическое занятие
+CATEGORIES:3D.ИРИТ-РТФ.ITMO.Э.О
+END:VEVENT
+BEGIN:VEVENT
+UID:87669622-349b-4f87-80e4-93bf9d068a2d
+SEQUENCE:124
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210222T065000
+DTEND;TZID=Asia/Yekaterinburg:20210222T074500
+SUMMARY:Компьютерные сети Академии Cisco (Смешанный курс)  / Лекция 1 / КС.ИРИТ-РТФ.M2.Ц2.С Л\, ЛБ\, К\, АТ-01 (дистант)
+LOCATION:Не определено
+DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Присяжный Алексей Владимирович\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2287669622-349b-4f87-80e4-93bf9d068a2d%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-22T06:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/87669622-349b-4f87-80e4-93bf9d068a2d\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:КС.ИРИТ-РТФ.M2.Ц2.С
+END:VEVENT
+BEGIN:VEVENT
+UID:9f0ef473-dd90-4db9-a17f-78ce0bbe28cf
+SEQUENCE:486
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210227T065000
+DTEND;TZID=Asia/Yekaterinburg:20210227T074500
+SUMMARY:Безопасность жизнедеятельности (Смешанное\, УрФУ\, СМУДС) / Тема 1.1. Современная цивилизация\, новые и старые угрозы Тема 1.2. Основы теории риска. Основные методы и средства обеспечения безопасности / БЖД.ИнФО.С Л-01(дистант)
+LOCATION:Не определено
+DESCRIPTION:Лекционное занятие / Видеолекция\n\nПреподаватель: Цепелев Владимир Степанович\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%229f0ef473-dd90-4db9-a17f-78ce0bbe28cf%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-27T06:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/9f0ef473-dd90-4db9-a17f-78ce0bbe28cf\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:БЖД.ИнФО.С
+END:VEVENT
+BEGIN:VEVENT
+UID:df61c67b-e49c-4b05-a507-33007549f439
+SEQUENCE:27
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210223T120000
+DTEND;TZID=Asia/Yekaterinburg:20210223T133000
+SUMMARY:Алгоритмы и анализ сложности (Смешанная форма) / Практическое занятие 1 / Я.АиАС.1.С Л\, П\, АТ-13 (дистант)
+LOCATION:Microsoft Teams
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Трофимов Сергей Павлович\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22df61c67b-e49c-4b05-a507-33007549f439%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-23T12:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/df61c67b-e49c-4b05-a507-33007549f439\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Я.АиАС.1.С
+END:VEVENT
+BEGIN:VEVENT
+UID:f381a14d-804b-4fb5-844b-1b623dc96262
+SEQUENCE:235
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210222T205000
+DTEND;TZID=Asia/Yekaterinburg:20210222T215500
+SUMMARY:Web-технологии (Онлайн\, ИТМО\, ОК) / Лекция / WT.ИРИТ-РТФ.ИТМО.Б.О Л-01
+LOCATION:Не определено
+DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Шадрин Денис Борисович\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22f381a14d-804b-4fb5-844b-1b623dc96262%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-22T20:50:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/f381a14d-804b-4fb5-844b-1b623dc96262\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:WT.ИРИТ-РТФ.ИТМО.Б.О
+END:VEVENT
+BEGIN:VEVENT
+UID:f7df2766-312b-4602-8f3b-fdf20d839078
+SEQUENCE:9
+ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20210225T074605
+DTSTART;TZID=Asia/Yekaterinburg:20210224T120000
+DTEND;TZID=Asia/Yekaterinburg:20210224T133000
+SUMMARY:Прикладная физическая культура Часть 4 / Практическое занятие 3 / ФК4-П\,АТ-РИ-290001\,02\,03\,04\,12\,13\,14\,15\,16\,17\,18\,19\,21\,22\,23
+LOCATION:Не определено
+DESCRIPTION:Практическое занятие\n\nПосмотреть в полной версии: https://urfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22f7df2766-312b-4602-8f3b-fdf20d839078%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222021-02-24T12:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-urfu.modeus.org/#/event/f7df2766-312b-4602-8f3b-fdf20d839078\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ФК4
+END:VEVENT
+END:VCALENDAR
