@@ -2,6 +2,7 @@
 VERSION:2.0
 PRODID:-//Custis/Modeus//Schedule Calendar App//RU
 METHOD:REFRESH
+
 BEGIN:VEVENT
 UID:07e935b6-2036-4758-b42d-08f1b15373d0
 SEQUENCE:8
@@ -16,6 +17,7 @@ CATEGORIES:Лабораторное занятие
 CATEGORIES:ПП3А
 END:VEVENT
 BEGIN:VEVENT
+
 UID:0ddd3333-c373-49d7-92a8-811528388185
 SEQUENCE:32
 ORGANIZER;CN=Modeus:MAILTO:help@modeus.org
@@ -28,6 +30,7 @@ DESCRIPTION:Практическое занятие\n\nПреподавател�
 CATEGORIES:Практическое занятие
 CATEGORIES:Дискретные структуры данных
 END:VEVENT
+
 BEGIN:VEVENT
 UID:2aa3f4be-d684-4caa-83bc-97adc664baca
 SEQUENCE:27
@@ -41,6 +44,7 @@ DESCRIPTION:Лекционное занятие\n\nПреподаватель: �
 CATEGORIES:Лекционное занятие
 CATEGORIES:Я.АиАС.1.С
 END:VEVENT
+
 BEGIN:VEVENT
 UID:7a688870-5a80-46ea-8e2c-7948f2d8c186
 SEQUENCE:8
@@ -54,6 +58,7 @@ DESCRIPTION:Практическое занятие\n\nПосмотреть в �
 CATEGORIES:Практическое занятие
 CATEGORIES:ФК4
 END:VEVENT
+
 BEGIN:VEVENT
 UID:84418f3e-e26e-4e8b-84ba-ab3dcb0c5f8f
 SEQUENCE:27
@@ -67,6 +72,7 @@ DESCRIPTION:Лекционное занятие\n\nПреподаватель: �
 CATEGORIES:Лекционное занятие
 CATEGORIES:Я.АиАС.1.С
 END:VEVENT
+
 BEGIN:VEVENT
 UID:86688182-0813-41d8-b2ca-a9b488aa6aad
 SEQUENCE:82
@@ -80,6 +86,7 @@ DESCRIPTION:Практическое занятие / Тренинг\n\nПреп
 CATEGORIES:Практическое занятие
 CATEGORIES:3D.ИРИТ-РТФ.ITMO.Э.О
 END:VEVENT
+
 BEGIN:VEVENT
 UID:87669622-349b-4f87-80e4-93bf9d068a2d
 SEQUENCE:124
@@ -93,6 +100,7 @@ DESCRIPTION:Лекционное занятие / Информационная �
 CATEGORIES:Лекционное занятие
 CATEGORIES:КС.ИРИТ-РТФ.M2.Ц2.С
 END:VEVENT
+
 BEGIN:VEVENT
 UID:9f0ef473-dd90-4db9-a17f-78ce0bbe28cf
 SEQUENCE:486
@@ -106,6 +114,7 @@ DESCRIPTION:Лекционное занятие / Видеолекция\n\nПр
 CATEGORIES:Лекционное занятие
 CATEGORIES:БЖД.ИнФО.С
 END:VEVENT
+
 BEGIN:VEVENT
 UID:df61c67b-e49c-4b05-a507-33007549f439
 SEQUENCE:27
@@ -119,6 +128,7 @@ DESCRIPTION:Практическое занятие\n\nПреподавател�
 CATEGORIES:Практическое занятие
 CATEGORIES:Я.АиАС.1.С
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f381a14d-804b-4fb5-844b-1b623dc96262
 SEQUENCE:235
@@ -132,6 +142,7 @@ DESCRIPTION:Лекционное занятие / Информационная �
 CATEGORIES:Лекционное занятие
 CATEGORIES:WT.ИРИТ-РТФ.ИТМО.Б.О
 END:VEVENT
+
 BEGIN:VEVENT
 UID:f7df2766-312b-4602-8f3b-fdf20d839078
 SEQUENCE:9
