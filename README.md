@@ -1,7 +1,7 @@
 # Хакатон / SAGITTARIUS
 Репозиторий для проекта с хакатона
 
-Сам бот: @SagittariusHackatonBot
+Сам бот: [@SagittariusHackatonBot](https://t.me/SagittariusHackatonBot)
 
 На данный момент бот не имеет никакого функционала
 
